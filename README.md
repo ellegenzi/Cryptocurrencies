@@ -17,11 +17,11 @@ You and your childhood best friend Martha always dreamed of changing the world. 
 
 Using your knowledge of Pandas, you’ll preprocess the dataset in order to perform PCA in Deliverable 2.
 
-#### Deliverable 2
+### Deliverable 2
 
 Using your knowledge of how to apply the Principal Component Analysis (PCA) algorithm, you’ll reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame.
 
-#### Deliverable 3
+### Deliverable 3
 
 Using your knowledge of the K-means algorithm, you’ll create an elbow curve using hvPlot to find the best value for K from the pcs_df DataFrame created in Deliverable 2. Then, you’ll run the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
 
